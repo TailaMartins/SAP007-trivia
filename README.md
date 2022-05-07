@@ -3,6 +3,7 @@
 
 - [Trivia - The Big Bang Theory](#trivia---the-big-bang-theory)
   - [📌 Introdução](#-introdução)
+  - [� Sobre o Projeto](#-sobre-o-projeto)
   - [🟢 Status](#-status)
   - [🛠 Ferramentas Utilizadas](#-ferramentas-utilizadas)
   - [👩🏽‍💻 Desenvolvedora](#-desenvolvedora)
@@ -29,5 +30,5 @@ Para a construção desse projeto foram utilizadas as seguintes ferramentas:
 
 ## 👩🏽‍💻 Desenvolvedora
 
-👩🏽 <a href=“https://www.linkedin.com/in/taila-martins>Taila Martins </a><br/>
+👩🏽 <a href="https://www.linkedin.com/in/taila-martins">Taila Martins </a><br/>
 
