@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SAP007-trivia/static/css/main.b4a7b844.css",
+    "main.js": "/SAP007-trivia/static/js/main.9efa7dc9.js",
+    "index.html": "/SAP007-trivia/index.html",
+    "main.b4a7b844.css.map": "/SAP007-trivia/static/css/main.b4a7b844.css.map",
+    "main.9efa7dc9.js.map": "/SAP007-trivia/static/js/main.9efa7dc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a7b844.css",
+    "static/js/main.9efa7dc9.js"
+  ]
+}
